@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+build/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+crash.log
+
+# Editors
+.vscode/
+.idea/
